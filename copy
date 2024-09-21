@@ -1,11 +1,3 @@
 import os
-
-os.system("cls || clear") #Limpa o terminal.
-
-# Entrada.
-
-
-#
-
-
-# Saída.
+#Limpa o terminal. 
+os.system("cls || clear")
