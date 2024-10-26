@@ -21,9 +21,9 @@ n2 = int(input("Digite o segundo número: "))
 #Processamento
 soma = calcular_soma(n1, n2)
 subtracao = calcular_subtracao(n1, n2)
-multiplicacao = calcular_smultiplicacao (n1, n2)
+multiplicacao = calcular_multiplicacao (n1, n2)
 
 #Saida
 print(f"resultado {soma}")
-print(f"resultado {subtracao}
+print(f"resultado {subtracao}")
 print(f"resultado {multiplicacao}")
