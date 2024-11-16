@@ -6,14 +6,16 @@ os.system("cls || clear") #Limpa o terminal.
 nota = int(input("Digite uma nota: "))
 
 # Processamento.
-if nota > 7:
-    str(input(resultado = "Aprovado."))
-elif nota > 5:
+if nota >= 7:
+    print(input(resultado = "Aprovado."))
+else: 
+     nota > 5
      resultado = "Recuperação."
-elif nota > 4:
-     resultado = "Conselho de classe."
-else:
-     Resultado = "Reprovado."
+else: 
+nota > 4
+resultado = "Conselho de classe."
+elif:
+Resultado = "Reprovado."
 
 # Saída.
 int(input(f"Resultado: " (resultado)))
